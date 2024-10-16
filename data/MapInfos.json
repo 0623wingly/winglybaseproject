@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Outside","order":1,"parentId":0,"scrollX":1367,"scrollY":830.5},
+{"id":2,"expanded":false,"name":"１－１","order":2,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":3,"expanded":false,"name":"２－１","order":3,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":4,"expanded":false,"name":"２－２","order":4,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":5,"expanded":false,"name":"３－１","order":5,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":6,"expanded":false,"name":"３－２","order":6,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":7,"expanded":false,"name":"４－１","order":7,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":8,"expanded":false,"name":"４－２","order":8,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":9,"expanded":false,"name":"５－１","order":9,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":10,"expanded":false,"name":"MAP010","order":12,"parentId":0,"scrollX":1122,"scrollY":600.5,"quick":false},
+{"id":11,"expanded":false,"name":"６－１","order":10,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":12,"expanded":false,"name":"６－２","order":11,"parentId":0,"scrollX":1346.3999999999999,"scrollY":715.1999999999999,"quick":false},
+{"id":13,"expanded":false,"name":"MAP013","order":13,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+]
